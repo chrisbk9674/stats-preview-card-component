@@ -1,4 +1,4 @@
-# 🌟 Stats Preview Card Component – Frontend Mentor Challenge\*\*
+# 🌟 Fully Responsive Stats Preview Card Component\*\*
 
 <p align="center">
   <img src="design/desktop-design.jpg" alt="Stats Preview Card Component" width="50%">
